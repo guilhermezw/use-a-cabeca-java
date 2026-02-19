@@ -7,11 +7,6 @@ public class Startup {
     private String name;
 
 
-    public Startup(ArrayList<String> locationCells, String name) {
-        this.locationCells = locationCells;
-        this.name = name;
-    }
-
     public Startup() {
     }
 
